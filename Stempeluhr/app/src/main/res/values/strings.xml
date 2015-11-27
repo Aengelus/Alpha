@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stempeluhr</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">My Stempeluhr</string>
+</resources>
